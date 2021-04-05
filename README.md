@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 </a>
 </div>
 
-<br>
+<hr>
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/aakankshadhurandhar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
