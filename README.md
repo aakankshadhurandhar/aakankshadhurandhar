@@ -7,7 +7,7 @@
 
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on reactjs and javascript
 - :dancer:I’m looking to collaborate with anyone on any project.
