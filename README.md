@@ -52,11 +52,11 @@
 
 ## My Latest Blog Posts 👇
 <!-- BLOG-POST-LIST:START -->
+- [Promises](https://aakankshadhurandhar.hashnode.dev/promises)
 - [Closures](https://aakankshadhurandhar.hashnode.dev/closures)
 - [Scope Chain & Lexical environment](https://aakankshadhurandhar.hashnode.dev/scope-chain-and-lexical-environment)
 - [Debouncing and Throttling](https://aakankshadhurandhar.hashnode.dev/debouncing-and-throttling)
 - [Local Storage, Session Storage](https://aakankshadhurandhar.hashnode.dev/local-storage-session-storage)
-- [Hoisting in Javascript](https://aakankshadhurandhar.hashnode.dev/hoisting-in-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 
