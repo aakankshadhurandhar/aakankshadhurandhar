@@ -13,6 +13,7 @@
 - :dancer:I’m looking to collaborate with anyone on any project.
 - 🌱 I’m currently learning reactnative
 - 🤔 I’m looking for help with backend technologies.
+- Know basic nodejs
 
 
 **Languages and Tools:**  
@@ -28,8 +29,7 @@
 <br>
 
 ## :trophy: My Github Stats:
-
-[![Aakanksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakankshadhhurandhar)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakankshadhurandhar&count_private=true)
 <div>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=aakankshadhurandhar&count_private=true&show_icons=true&theme=tokyonight">
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=aakankshadhurandhar&count_private=true&show_icons=true&theme=tokyonight" />
