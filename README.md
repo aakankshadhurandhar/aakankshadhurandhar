@@ -44,11 +44,11 @@ const aaku = {
 
 ## My Latest Blog Posts 👇
 <!-- BLOG-POST-LIST:START -->
+- [Objects in Javascript](https://aakankshadhurandhar.hashnode.dev/objects-in-javascript)
 - [Multiple classes on the same element in  CSS](https://aakankshadhurandhar.hashnode.dev/multiple-classes-on-the-same-element-in-css)
 - [Promises](https://aakankshadhurandhar.hashnode.dev/promises)
 - [Closures](https://aakankshadhurandhar.hashnode.dev/closures)
-- [Scope Chain & Lexical environment](https://aakankshadhurandhar.hashnode.dev/scope-chain-and-lexical-environment)
-- [Debouncing and Throttling](https://aakankshadhurandhar.hashnode.dev/debouncing-and-throttling)
+- [Scope Chain &amp; Lexical environment](https://aakankshadhurandhar.hashnode.dev/scope-chain-and-lexical-environment)
 <!-- BLOG-POST-LIST:END -->
 
 
