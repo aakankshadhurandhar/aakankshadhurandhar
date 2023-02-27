@@ -44,11 +44,11 @@ const aaku = {
 
 ## My Latest Blog Posts 👇
 <!-- BLOG-POST-LIST:START -->
+- [Setup ESLint, Prettier, Absolute Import and Husky in React App](https://aakankshadhurandhar.hashnode.dev/setup-eslint-prettier-absolute-import-and-husky-in-react-app)
 - [Objects in Javascript](https://aakankshadhurandhar.hashnode.dev/objects-in-javascript)
 - [Multiple classes on the same element in  CSS](https://aakankshadhurandhar.hashnode.dev/multiple-classes-on-the-same-element-in-css)
 - [Promises](https://aakankshadhurandhar.hashnode.dev/promises)
 - [Closures](https://aakankshadhurandhar.hashnode.dev/closures)
-- [Scope Chain &amp; Lexical environment](https://aakankshadhurandhar.hashnode.dev/scope-chain-and-lexical-environment)
 <!-- BLOG-POST-LIST:END -->
 
 
