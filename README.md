@@ -18,6 +18,10 @@ const aaku = {
         frontEnd: {
             js: ["React", "Vue", "NuxtJS" ,"NextJS"],
         }
+        backend : {
+            python
+         }
+
         misc: ["Firebase"]
     },
     currentFocus: "Getting better in Javascript",
