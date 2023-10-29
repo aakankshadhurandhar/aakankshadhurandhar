@@ -12,17 +12,17 @@
 ```javascript
 const aaku = {
     pronouns: "She" | "Her",
-    code: ["Javascript"],
+    code: ["Javascript" ,"Python"],
     askMeAbout: ["web dev", "tech", "anime", "manga"],
     technologies: {
         frontEnd: {
             js: ["React", "Vue", "NuxtJS" ,"NextJS"],
         }
         backend : {
-            python
+            python,Django rest framework
          }
 
-        misc: ["Firebase"]
+        misc: ["Firebase","MongoDB","MySQL","CI/CD"]
     },
     currentFocus: "Getting better in Javascript",
     funFact: "There are two ways to write error-free programs; only the third one works"
